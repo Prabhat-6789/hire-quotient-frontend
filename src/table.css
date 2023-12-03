@@ -1,0 +1,15 @@
+.selected {
+  background-color: #ccc;
+}
+
+.pagination {
+  margin-top: 10px;
+}
+
+.pagination button {
+  margin: 0 5px;
+}
+
+.pagination button.active {
+  font-weight: bold;
+}
